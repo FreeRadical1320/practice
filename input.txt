@@ -1,10 +1,11 @@
-This is a test string
-This is a new string
-other string
-123
-test test
-sldfjskldfs
-skljfkhjdkuieer
-wwee45t6
-sdvgffrhtr6
-sdfgdh
+8 8
+3
+1 1
+2 6
+6 6
+3
+2 2
+7 7
+8 8
+white
+
